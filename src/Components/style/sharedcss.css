@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.copyright{
+    margin: 0 auto;
+    color: white;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.text{
+    color: white;
+}
+.navbaritems{
+    margin-left: 100%;
+}
